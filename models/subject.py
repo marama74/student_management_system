@@ -1,5 +1,5 @@
 """
-Subject Class
+Subject Class in this module
 Represents a subject/course in the system
 """
 
