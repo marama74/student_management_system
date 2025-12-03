@@ -63,6 +63,7 @@ python main.py
 ## Data Storage
 
 Data is stored in plain text files using pipe (|) delimiters:
+Data set folder enteries we can update any time when new subject or student name we want to add in your database we can easily update 
 
 **students.txt format:**
 ```
