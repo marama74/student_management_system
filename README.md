@@ -287,6 +287,5 @@ This project implements key Object-Oriented Programming principles:
 
 **Maryam Arshad**  
 Roll Number: 498506  
-Course: Object-Oriented Programming  
-Assignment 2: Student Management System
+
 
