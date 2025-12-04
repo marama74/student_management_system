@@ -20,7 +20,7 @@ A comprehensive Student Management System built with Python using Object-Oriente
 - **Auto-Creation**: Data directory and files are created automatically on first run
 - **Data Integrity**: Prevents duplicate entries and maintains referential integrity
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 student_management_system/
@@ -38,7 +38,7 @@ student_management_system/
 └── README.md              # Project documentation (this file)
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 ### Prerequisites
 - Python 3.6 or higher installed on your system
@@ -270,24 +270,7 @@ Stores grades and attendance for each student-subject enrollment.
    Attendance: 12/14 classes
    Attendance Percentage: 85.71%
    ------------------------------------------------------------
-   ```
-
-## 🔐 Git & Version Control
-
-### .gitignore Configuration
-The project includes a `.gitignore` file that excludes:
-- `data/` folder (to avoid sharing test data)
-- Python cache files (`__pycache__/`)
-- Virtual environment folders
-- IDE-specific files
-
-### Why Exclude data/?
-- **Clean Repository**: Professor gets only source code
-- **Privacy**: No student data shared publicly
-- **Fresh Start**: Each user generates their own data
-- **Testing**: Users can test without pre-existing data
-
-When your professor clones the repository and runs the program, the `data/` folder will be automatically created with fresh, empty files.
+   
 
 ##  OOP Concepts Demonstrated
 
@@ -300,7 +283,7 @@ This project implements key Object-Oriented Programming principles:
 5. **DRY Principle**: Code reusability through methods and classes
 
 
-## 👨‍💻 Author
+##  Author
 
 **Maryam Arshad**  
 Roll Number: 498506  
