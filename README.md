@@ -48,7 +48,7 @@ student_management_system/
 
 1. **Download/Clone the project:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/student_management_system.git
+   git clone https://github.com/marama74 /student_management_system.git
    cd student_management_system
    ```
 
